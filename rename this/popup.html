@@ -1,0 +1,22 @@
+<html style="max-height: 0%;">
+  <head></head>
+  <body style="max-width: 500px; height: 400px; width:500px;">
+    <h1>Fetched cookie</h1>
+
+    <!-- First copy button stays visible -->
+    <button id="copyToken">Copy to clipboard</button><br>
+
+    <!-- First token div hidden -->
+    <div style="overflow-y: scroll; height: 100px; border-width: 2px; border-style: solid; display: none;">
+      <p id="token" style="max-width: 470px; word-wrap: break-word;">Token will appear shortly</p>
+    </div>
+
+    <!-- Second button and div hidden -->
+    <button id="copyFullToken" style="display: none;">Copy full token to clipboard</button>
+    <div style="overflow-y: scroll; height: 100px; border-width: 2px; border-style: solid; display: none;">
+      <p id="fullToken" style="max-width: 470px; word-wrap: break-word;">Full token will appear shortly</p>
+    </div>
+
+    <script src="./popup.js" type="module"></script>
+  </body>
+</html>

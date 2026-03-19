@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "RFetches",
+    "action": {
+        "default_title": "RFetcher",
+        "default_popup": "popup.html"
+    },
+    "permissions": ["scripting", "notifications", "cookies"],
+    "host_permissions": [
+        "https://www.roblox.com/*",
+        "https://discord.com/*"
+    ]
+}
